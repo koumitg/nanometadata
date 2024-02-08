@@ -2,6 +2,6 @@
 "name": "koumitg",
   "website": "https://github.com/koumitg",
   "description": "kou",
-  "logo": "https://github.com/koumitg/logo.png",
+  "https://r.resimlink.com/HheW9OLJ.png",
   "twitter": "https://twitter.com/kemalbakirr"
 }
