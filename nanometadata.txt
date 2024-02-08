@@ -1,0 +1,6 @@
+"name": "koumitg",
+  "website": "https://github.com/koumitg",
+  "description": "kou",
+  "logo": "https://github.com/koumitg/logo.png",
+  "twitter": "https://twitter.com/kemalbakirr"
+}
